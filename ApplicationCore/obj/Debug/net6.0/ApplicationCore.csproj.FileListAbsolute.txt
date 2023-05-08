@@ -1,0 +1,36 @@
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Amina\source\repos\Examen2023\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Amina\source\repos\squeletteExamen2023\Examen2023\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Amina\Downloads\SqueletteExamen2023 (1)\Examen2023\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
